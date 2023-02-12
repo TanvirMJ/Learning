@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Bench Setup
 
 HMI
 Power Dummy
 Heads up display
 Instrument Panel Cluster
+=======
+Bench Setup
+
+HMI
+>>>>>>> 5aa8e29b1ec80068fc49dd0b57f0e74195c87568
